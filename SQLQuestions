@@ -1,0 +1,12 @@
+Welcome to SQL learning, try solving these questions on your own. 
+
+Questions 
+1. Find the device that has only mandatory accessories, in the example provided SQL should provide TV & Cellphone. 
+
+Device 	accessories	 mandatory_flag
+TV	     Remote	      Y
+Laptop	 Printer	    N
+Laptop	  Monitor	    N
+Laptop	  RAM	        Y
+Cellphone	Battery	    Y
+Tab	Screen guard	    N
